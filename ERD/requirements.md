@@ -111,7 +111,7 @@
 
 ## Visual Representation
 
-![visual diagram][./image.png]
+![visual diagram](./image.png)
 
 ---
 
