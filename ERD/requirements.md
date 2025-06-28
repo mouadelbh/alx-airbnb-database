@@ -109,14 +109,9 @@
 
 ---
 
-## Diagram Tool Recommendation
+## Visual Representation
 
-You can use [Draw.io](https://draw.io) or [Diagrams.net](https://diagrams.net) to visually create this ER diagram by:
-
-- Creating entity boxes with attributes listed.
-- Connecting them with relationships lines.
-- Adding primary key (PK) and foreign key (FK) annotations.
-- Using crow’s foot notation to show cardinality (1, many).
+![visual diagram][image.png]
 
 ---
 
